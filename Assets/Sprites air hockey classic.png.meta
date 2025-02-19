@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: 433eac54e19125d479c75fef8da25783
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5412140959785360475
+    second: Sprites air hockey classic_0
+  - first:
+      213: -6965320864080203649
+    second: Sprites air hockey classic_1
+  - first:
+      213: -2722470469956028517
+    second: Sprites air hockey classic_2
+  - first:
+      213: -5150030077652266009
+    second: Sprites air hockey classic_3
+  - first:
+      213: 1666283321133246651
+    second: Sprites air hockey classic_4
+  - first:
+      213: 2764526887761566172
+    second: Sprites air hockey classic_5
+  - first:
+      213: 9063230592159731098
+    second: Sprites air hockey classic_6
+  - first:
+      213: 4949030963188559209
+    second: Sprites air hockey classic_7
+  - first:
+      213: 7283270527661369187
+    second: Sprites air hockey classic_8
+  - first:
+      213: -6894723784157249401
+    second: Sprites air hockey classic_9
+  - first:
+      213: -148944889284918394
+    second: Sprites air hockey classic_10
+  - first:
+      213: -6283694570805493538
+    second: Sprites air hockey classic_11
+  - first:
+      213: -5030255663318881383
+    second: Sprites air hockey classic_12
+  - first:
+      213: 1706436305803751126
+    second: Sprites air hockey classic_13
+  - first:
+      213: 7139270412666749227
+    second: Sprites air hockey classic_14
+  - first:
+      213: 259019140658285963
+    second: Sprites air hockey classic_15
+  - first:
+      213: 2064221489889765061
+    second: Sprites air hockey classic_16
+  - first:
+      213: -888473977508278526
+    second: Sprites air hockey classic_17
+  - first:
+      213: 2855707283645447270
+    second: Sprites air hockey classic_18
+  - first:
+      213: 3390310312241456850
+    second: Sprites air hockey classic_19
+  - first:
+      213: -4995733331730627403
+    second: Sprites air hockey classic_20
+  - first:
+      213: -3290090325821790328
+    second: Sprites air hockey classic_21
+  - first:
+      213: 9137229762011144286
+    second: Sprites air hockey classic_22
+  - first:
+      213: 607599008577404130
+    second: Sprites air hockey classic_23
+  - first:
+      213: -7088393536105296710
+    second: Sprites air hockey classic_24
+  - first:
+      213: 1877624850414776489
+    second: Sprites air hockey classic_25
+  - first:
+      213: -3848753093891922160
+    second: Sprites air hockey classic_26
+  - first:
+      213: 3058929992605649777
+    second: Sprites air hockey classic_27
+  - first:
+      213: 6397779167646991198
+    second: Sprites air hockey classic_28
+  - first:
+      213: -6126369132803275707
+    second: Sprites air hockey classic_29
+  - first:
+      213: 6596587201971223821
+    second: Sprites air hockey classic_30
+  - first:
+      213: 3455930690789989252
+    second: Sprites air hockey classic_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites air hockey classic_0
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1474
+        width: 1016
+        height: 1597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3e6a9c87634e4b0800000000000000
+      internalID: -5412140959785360475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_1
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 2910
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70f1e5f395365f90800000000000000
+      internalID: -6965320864080203649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_2
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 2910
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97b7c62887d73ad0800000000000000
+      internalID: -2722470469956028517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_3
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2904
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e395fe2eea6788b0800000000000000
+      internalID: -5150030077652266009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_4
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 2910
+        width: 11
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb82e4b2ad3df1710800000000000000
+      internalID: 1666283321133246651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_5
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 2870
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd95b0dae829d5620800000000000000
+      internalID: 2764526887761566172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_6
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 2904
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d422b543017cd70800000000000000
+      internalID: 9063230592159731098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_7
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 2870
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d634f907d7ea440800000000000000
+      internalID: 4949030963188559209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_8
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 2910
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367e35cd4ff531560800000000000000
+      internalID: 7283270527661369187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_9
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 2870
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780ced48f350150a0800000000000000
+      internalID: -6894723784157249401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_10
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 2910
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683001f8967deedf0800000000000000
+      internalID: -148944889284918394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_11
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 2910
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0861e8415dbc8a0800000000000000
+      internalID: -6283694570805493538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_12
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2922
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b2b7a2021f03ab0800000000000000
+      internalID: -5030255663318881383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_13
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 2870
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de234f67ca7ea710800000000000000
+      internalID: 1706436305803751126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_14
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 2870
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2145766d98c31360800000000000000
+      internalID: 7139270412666749227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_15
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 2870
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dc6fc3988389300800000000000000
+      internalID: 259019140658285963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_16
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 2870
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c66b92228695ac10800000000000000
+      internalID: 2064221489889765061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_17
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 2870
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fc072ff918ba3f0800000000000000
+      internalID: -888473977508278526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_18
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 2870
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cbe20f4a281a720800000000000000
+      internalID: 2855707283645447270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_19
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 2870
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ee7f244dcc0f20800000000000000
+      internalID: 3390310312241456850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_20
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 2870
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b40e99d0079baab0800000000000000
+      internalID: -4995733331730627403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_21
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2631
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8876172c7404752d0800000000000000
+      internalID: -3290090325821790328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_22
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 2582
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e502dc3be06fdce70800000000000000
+      internalID: 9137229762011144286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_23
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 2581
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecb2204410ae6800800000000000000
+      internalID: 607599008577404130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_24
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 2300
+        width: 187
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcc44482a7f0ad90800000000000000
+      internalID: -7088393536105296710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_25
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 2301
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a03b667ad9ae0a10800000000000000
+      internalID: 1877624850414776489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2165
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017e262e37b769ac0800000000000000
+      internalID: -3848753093891922160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_27
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1018
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b4c021f90837a20800000000000000
+      internalID: 3058929992605649777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_28
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 1016
+        width: 187
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e534efe814a79c850800000000000000
+      internalID: 6397779167646991198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_29
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 15
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544c75c8bb3cafaa0800000000000000
+      internalID: -6126369132803275707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_30
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 0
+        width: 1597
+        height: 1014
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0df1672c19cb8b50800000000000000
+      internalID: 6596587201971223821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites air hockey classic_31
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 15
+        width: 121
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b58e827aee5ff20800000000000000
+      internalID: 3455930690789989252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprites air hockey classic_0: -5412140959785360475
+      Sprites air hockey classic_1: -6965320864080203649
+      Sprites air hockey classic_10: -148944889284918394
+      Sprites air hockey classic_11: -6283694570805493538
+      Sprites air hockey classic_12: -5030255663318881383
+      Sprites air hockey classic_13: 1706436305803751126
+      Sprites air hockey classic_14: 7139270412666749227
+      Sprites air hockey classic_15: 259019140658285963
+      Sprites air hockey classic_16: 2064221489889765061
+      Sprites air hockey classic_17: -888473977508278526
+      Sprites air hockey classic_18: 2855707283645447270
+      Sprites air hockey classic_19: 3390310312241456850
+      Sprites air hockey classic_2: -2722470469956028517
+      Sprites air hockey classic_20: -4995733331730627403
+      Sprites air hockey classic_21: -3290090325821790328
+      Sprites air hockey classic_22: 9137229762011144286
+      Sprites air hockey classic_23: 607599008577404130
+      Sprites air hockey classic_24: -7088393536105296710
+      Sprites air hockey classic_25: 1877624850414776489
+      Sprites air hockey classic_26: -3848753093891922160
+      Sprites air hockey classic_27: 3058929992605649777
+      Sprites air hockey classic_28: 6397779167646991198
+      Sprites air hockey classic_29: -6126369132803275707
+      Sprites air hockey classic_3: -5150030077652266009
+      Sprites air hockey classic_30: 6596587201971223821
+      Sprites air hockey classic_31: 3455930690789989252
+      Sprites air hockey classic_4: 1666283321133246651
+      Sprites air hockey classic_5: 2764526887761566172
+      Sprites air hockey classic_6: 9063230592159731098
+      Sprites air hockey classic_7: 4949030963188559209
+      Sprites air hockey classic_8: 7283270527661369187
+      Sprites air hockey classic_9: -6894723784157249401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
